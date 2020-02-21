@@ -1,0 +1,138 @@
+
+
+body{
+      margin: 0;
+     text-align: center;
+     color: #40514E;
+}
+
+   .hedline-U{
+         background-color: #E4F9F5;
+
+
+   }
+   h1{
+      color:#66BFBF;
+      margin: 0 auto 0 auto;
+      width: 2;
+      font-family: 'Sacramento', serif;
+      font-size: 70px;
+   }
+
+     hr{
+       border: dotted #eaf6f6 6px;
+       border-bottom: none;
+       width: 4%;
+       margin: 100px auto;
+     }
+
+  .middle{
+
+  }
+
+  .bottom{
+
+  }
+.last{
+
+}
+
+    .bottom-cloud{
+          position: relative;
+          right:  220px;
+          bottom:   110px;
+    }
+
+    .top-cloud{
+        position: relative;
+        top: 0;
+        left: 250px;
+    }
+  .myimg{
+      height: 420px;
+      width: 330px;
+      float: left;
+    
+      margin-right: 30px;
+  }
+
+     .fimg{
+       height: 730px;
+       width: 420px;
+
+     }
+     h2{
+      font-family: 'Montserrat', sans-serif;
+         color:#66BFBF;
+         padding-bottom: 10px;
+     }
+
+       h3{
+         font-family: 'Trade Winds', cursive;
+         color:#ffb6b9;
+       }
+
+       p{
+         font-family: 'Comforta', cursive;
+       }
+          .c-img{
+            height: 110px;
+            width: 100px;
+             float:right;
+            margin-left: 30px;
+          }
+          .myButton {
+   	background-color:#44c767;
+   	border-radius:17px;
+   	border:2px solid #18ab29;
+   	display:inline-block;
+   	cursor:pointer;
+   	color:#ffffff;
+   	font-family:Verdana;
+   	font-size:19px;
+   	font-style:italic;
+   	padding:11px 21px;
+   	text-decoration:none;
+   	text-shadow:0px 1px 0px #2f6627;
+   }
+   .myButton:hover {
+   	background-color:#5cbf2a;
+   }
+   .myButton:active {
+   	position:relative;
+   	top:1px;
+   }
+
+      .skill-row{
+        width: 50%;
+        margin: 60px auto 60px auto;
+        text-align: left;
+        line-height: 2;
+      }
+    .middle-container{
+      margin: 100px auto;
+    }
+    .hel-dec{
+       width: 30%;
+       margin: auto;
+       line-height: 2;
+    }
+     .bottom-container{
+       background-color: #66bfbf;
+       padding: 50px 0 30px;
+     }
+
+     a{
+       color: #11999E;
+       font-family:  'Montserrat', sans-serif;
+       margin: 10px 20px;
+       text-decoration: none;
+     }
+    a:hover{
+      color: #eaf6f6;
+    }
+   .copy-dec{
+     color:#eaf6f6;
+     font-size: 0.75rem;
+     padding: 20px;
+   }
